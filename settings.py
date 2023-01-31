@@ -1,0 +1,2 @@
+savefile = {{SAVEFILE}}
+file = ""{{FILE}}""
